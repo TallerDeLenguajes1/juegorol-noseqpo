@@ -1,0 +1,13 @@
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\bin\Debug\netcoreapp3.1\Linea9.exe
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\bin\Debug\netcoreapp3.1\Linea9.deps.json
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\bin\Debug\netcoreapp3.1\Linea9.runtimeconfig.json
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\bin\Debug\netcoreapp3.1\Linea9.runtimeconfig.dev.json
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\bin\Debug\netcoreapp3.1\Linea9.dll
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\bin\Debug\netcoreapp3.1\Linea9.pdb
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\obj\Debug\netcoreapp3.1\Linea9.csprojAssemblyReference.cache
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\obj\Debug\netcoreapp3.1\Linea9.AssemblyInfoInputs.cache
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\obj\Debug\netcoreapp3.1\Linea9.AssemblyInfo.cs
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\obj\Debug\netcoreapp3.1\Linea9.csproj.CoreCompileInputs.cache
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\obj\Debug\netcoreapp3.1\Linea9.dll
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\obj\Debug\netcoreapp3.1\Linea9.pdb
+E:\2021\TALLER DE LENGUAJES\REPOSITORIO\juegorol-noseqpo\Linea9\Linea9\obj\Debug\netcoreapp3.1\Linea9.genruntimeconfig.cache
